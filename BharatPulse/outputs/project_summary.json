@@ -1,0 +1,13 @@
+{
+    "Project": "BharatPulse",
+    "Domain": "Indian Economic Data Analysis",
+    "Dataset_Rows": 869,
+    "Dataset_Columns": 142,
+    "Monthly_Index_Columns": 139,
+    "Commodities_Analysed": 696,
+    "Analysis": [
+        "Data Cleaning",
+        "Commodity Price Volatility",
+        "Year-over-Year Inflation"
+    ]
+}
